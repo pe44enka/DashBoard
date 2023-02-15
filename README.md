@@ -8,7 +8,7 @@ This project is created as a part of **Data Visualization with Python** by IBM a
 As a data analyst, you have been given a task to monitor and report US domestic airline flights performance to analyze the performance and improve flight reliability thereby improving customer reliability.
 
 ### Goal of the project
-Create a dashboard with 2 possible options of reports for particular year:
+Create Dash Web application with 2 possible options of reports for particular year:
 
 * Yearly airline performance report:
   * bar chart: monthly number of flights under different cancellation categories
